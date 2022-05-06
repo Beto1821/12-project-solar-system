@@ -92,9 +92,9 @@ As imagens dos planetas e as informações das missões são fornecidas no proje
 
   - Projeto individual.
 
-  - Serão X dias de projeto.
+  - Serão `1` dias de projeto.
   
-  - Data de entrega para avaliação final do projeto: `DD/MM/YYYY - 14:00h`.
+  - Data de entrega para avaliação final do projeto: `16/05/2022 14:00`.
 ---
 
 # Observações técnicas
@@ -106,9 +106,9 @@ Você já aprendeu a criar componentes React, e nesse projeto vamos praticar mui
 ## Antes de começar a desenvolver
 
 1. Clone o repositório
-  * `git clone git@github.com:tryber/sd-0x-project-solar-system.git`.
+  * `git clone git@github.com:tryber/sd-021-a-project-solar-system.git`.
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-0x-project-solar-system`
+    * `cd sd-021-a-project-solar-system`
 
 2. Instale as dependências e inicialize o projeto
   * Instale as dependências:
